@@ -1,0 +1,14 @@
+{
+  "name": "metodo",
+  "version": "0.1.0",
+  "description": "Método para desarrollar aplicaciones colaborando con Claude. Cinco skills invocables juntas o por separado: definir-proyecto (génesis), elicitar-requerimientos, contexto-vivo, entrega-defensiva, y guia (orquestadora del ciclo sandbox→POC→producción y los modos arquitecto→delegador→validador). Compone con el plugin superpowers; no lo duplica.",
+  "keywords": [
+    "desarrollo",
+    "metodo",
+    "arquitectura",
+    "requerimientos",
+    "produccion",
+    "claude-code",
+    "capacitacion"
+  ]
+}

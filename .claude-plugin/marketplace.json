@@ -1,0 +1,14 @@
+{
+  "name": "metodo-desarrollo-con-claude",
+  "description": "Marketplace del método para desarrollar aplicaciones colaborando con Claude.",
+  "owner": {
+    "name": "vimsanchez"
+  },
+  "plugins": [
+    {
+      "name": "metodo",
+      "source": "./plugin",
+      "description": "Método para desarrollar aplicaciones con Claude: 5 skills (definir-proyecto, elicitar-requerimientos, contexto-vivo, entrega-defensiva, guia) invocables juntas o por separado. Compone con el plugin superpowers; no lo duplica."
+    }
+  ]
+}
