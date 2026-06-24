@@ -1,8 +1,8 @@
 {
-  "name": "metodo-desarrollo-con-claude",
+  "name": "vimasamo-skills",
   "description": "Marketplace del método para desarrollar aplicaciones colaborando con Claude.",
   "owner": {
-    "name": "vimsanchez"
+    "name": "vimasamo"
   },
   "plugins": [
     {
