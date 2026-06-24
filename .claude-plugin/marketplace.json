@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "metodo",
+      "name": "metodo-desarrollo-guiado",
       "source": "./plugin",
       "description": "Método para desarrollar aplicaciones con Claude: 5 skills (definir-proyecto, elicitar-requerimientos, contexto-vivo, entrega-defensiva, guia) invocables juntas o por separado. Compone con el plugin superpowers; no lo duplica."
     }
